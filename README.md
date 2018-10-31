@@ -8,4 +8,4 @@ biweekly paper reading &amp; note
 * [Network in Network](https://arxiv.org/pdf/1312.4400.pdf)   [**[note]**](https://zhuanlan.zhihu.com/p/37683646)
 * [Semi-supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)   [note]
 * [Deep Contextualized Word Representations](https://arxiv.org/pdf/1802.05365.pdf)   [**[note]**](https://zhuanlan.zhihu.com/p/38254332)
-* [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings](https://arxiv.org/pdf/1801.04470.pdf)[note]()
+* [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings](https://arxiv.org/pdf/1801.04470.pdf)[**[note]**]()
