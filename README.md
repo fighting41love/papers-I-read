@@ -6,5 +6,5 @@ biweekly paper reading &amp; note
 * [One Shot Learning with Siamese Networks in PyTorch](https://hackernoon.com/one-shot-learning-with-siamese-networks-in-pytorch-8ddaab10340e)
 * [Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss#batch-hard-strategy)[note](https://zhuanlan.zhihu.com/p/35560666)
 * [Network in Network](https://arxiv.org/pdf/1312.4400.pdf)[note](https://zhuanlan.zhihu.com/p/37683646)
-* [Semi-supervised Classification with Graph Convolutional Networks](Semi-supervised Classification with Graph Convolutional Networks)[note]
+* [Semi-supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)[note]
 * [Deep Contextualized Word Representations](https://arxiv.org/pdf/1802.05365.pdf)[note](https://zhuanlan.zhihu.com/p/38254332)
