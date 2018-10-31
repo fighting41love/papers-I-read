@@ -1,6 +1,6 @@
 # papers-I-read
 biweekly paper reading &amp; note
-* [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf)   [**note**](https://zhuanlan.zhihu.com/p/31118235)
+* [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf)   [**[note]**](https://zhuanlan.zhihu.com/p/31118235)
 * [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)   [note](https://zhuanlan.zhihu.com/p/31491520)
 * [Shallow Updates Deep Reinforcement Learning](https://arxiv.org/pdf/1705.07461.pdf)   [note](https://zhuanlan.zhihu.com/p/33126397)
 * [One Shot Learning with Siamese Networks in PyTorch](https://hackernoon.com/one-shot-learning-with-siamese-networks-in-pytorch-8ddaab10340e)   [note](https://zhuanlan.zhihu.com/p/35040994)
